@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CamCraft</string>
+    <string name="camera_permission_title">Camera Permission Required</string>
+    <string name="camera_permission_description">CamCraft needs camera access to capture photos and provide real-time preview.</string>
+    <string name="location_permission_title">Location Permission Required</string>
+    <string name="location_permission_description">CamCraft uses your location to attach geotags to photo EXIF metadata when enabled.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="cancel">Cancel</string>
+</resources>
